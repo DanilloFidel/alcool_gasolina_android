@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alcool_ou_gasolina">
+    package="com.example.danil.alcool_gasolina">
 
     <application
         android:allowBackup="true"
